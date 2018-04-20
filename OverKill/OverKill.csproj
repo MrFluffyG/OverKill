@@ -296,11 +296,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ProceduralNumberGenerator.cs" />
-    <Compile Include="Assets\Scripts\HuntAndKillMazeAlgorithm.cs" />
-    <Compile Include="Assets\Scripts\MazeAlgorithm.cs" />
-    <Compile Include="Assets\Scripts\MazeCell.cs" />
-    <Compile Include="Assets\Scripts\MazeLoader.cs" />
+    <Compile Include="Assets\Scripts\EnemyControler.cs" />
+    <Compile Include="Assets\Scripts\EnemyManeger.cs" />
+    <Compile Include="Assets\Scripts\HealthController.cs" />
+    <Compile Include="Assets\Scripts\PlayerHealthControler.cs" />
+    <Compile Include="Assets\Scripts\PlayerManager.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Weapon\Weapon.cs" />
+    <Compile Include="Assets\Scripts\Weapon\WeaponSway.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

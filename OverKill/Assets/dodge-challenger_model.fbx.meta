@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 82562c0e50ec7e84e80e84963db4389a
+timeCreated: 1524255295
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BlobShadow
+    100002: Body
+    100004: Body.001
+    100006: Body.002
+    100008: BrakeDisk0
+    100010: BrakeDisk1
+    100012: BrakeDisk2
+    100014: BrakeDisk3
+    100016: Camera
+    100018: Chassis
+    100020: //RootNode
+    100022: Glasses
+    100024: Hemi
+    100026: Interior
+    100028: Plane
+    100030: RearLight
+    100032: Roller
+    100034: Sun
+    100036: Wheel0_graphics
+    100038: Wheel1_graphics
+    100040: Wheel2_graphics
+    100042: Wheel3_graphics
+    400000: BlobShadow
+    400002: Body
+    400004: Body.001
+    400006: Body.002
+    400008: BrakeDisk0
+    400010: BrakeDisk1
+    400012: BrakeDisk2
+    400014: BrakeDisk3
+    400016: Camera
+    400018: Chassis
+    400020: //RootNode
+    400022: Glasses
+    400024: Hemi
+    400026: Interior
+    400028: Plane
+    400030: RearLight
+    400032: Roller
+    400034: Sun
+    400036: Wheel0_graphics
+    400038: Wheel1_graphics
+    400040: Wheel2_graphics
+    400042: Wheel3_graphics
+    2000000: Camera
+    2100000: only_shadow
+    2100002: license_plate
+    2100004: CarPaint
+    2100006: blob_shadow
+    2100008: tire
+    2100010: rim
+    2100012: exhaust
+    2100014: essence_cap
+    2100016: body_mat
+    2100018: chrome
+    2100020: blinkers
+    2100022: logo1
+    2100024: rear_light
+    2100026: interior
+    2100028: glass_mat
+    2100030: chrome_window
+    2100032: Black glass
+    2100034: chassis
+    2100036: brake_disk
+    2100038: logo3
+    2100040: logo2
+    2100042: roller
+    2100044: chrome_roller
+    2300000: BlobShadow
+    2300002: Body
+    2300004: Body.001
+    2300006: Body.002
+    2300008: BrakeDisk0
+    2300010: BrakeDisk1
+    2300012: BrakeDisk2
+    2300014: BrakeDisk3
+    2300016: Chassis
+    2300018: Glasses
+    2300020: Interior
+    2300022: Plane
+    2300024: RearLight
+    2300026: Roller
+    2300028: Wheel0_graphics
+    2300030: Wheel1_graphics
+    2300032: Wheel2_graphics
+    2300034: Wheel3_graphics
+    3300000: BlobShadow
+    3300002: Body
+    3300004: Body.001
+    3300006: Body.002
+    3300008: BrakeDisk0
+    3300010: BrakeDisk1
+    3300012: BrakeDisk2
+    3300014: BrakeDisk3
+    3300016: Chassis
+    3300018: Glasses
+    3300020: Interior
+    3300022: Plane
+    3300024: RearLight
+    3300026: Roller
+    3300028: Wheel0_graphics
+    3300030: Wheel1_graphics
+    3300032: Wheel2_graphics
+    3300034: Wheel3_graphics
+    4300000: Plane
+    4300002: Body.002
+    4300004: Body
+    4300006: BlobShadow
+    4300008: Wheel1_graphics
+    4300010: Wheel3_graphics
+    4300012: Wheel2_graphics
+    4300014: Wheel0_graphics
+    4300016: Body.001
+    4300018: RearLight
+    4300020: Interior
+    4300022: Glasses
+    4300024: Chassis
+    4300026: BrakeDisk3
+    4300028: BrakeDisk1
+    4300030: BrakeDisk2
+    4300032: BrakeDisk0
+    4300034: Roller
+    10800000: Hemi
+    10800002: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
